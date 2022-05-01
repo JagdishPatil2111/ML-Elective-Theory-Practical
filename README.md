@@ -9,3 +9,4 @@ List of Practicals:
  6) Write a python program to implement Naïve Bayes Classifier.
  7) Write a python program to plot Receiver Operating Characteristics (ROC) curves.
  8) Write a python program for Multivariate Regression Modeling.
+ 9) Write a python program for Linear Regression using Gradient Descent algorithm.
