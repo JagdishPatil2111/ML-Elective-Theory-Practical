@@ -1,6 +1,6 @@
 # ML-Elective-Theory-Practical
 
-List of Practicals:
+**List of Practicals:**
  1) Write a python program to handle the “Numpy” and “Matplotlib” library.
  2) Write a python program to plot 2D & 3D Gaussian distribution curve using probability of likelihood formula.
  3) Write a python program for Linear Regression Modeling.
