@@ -11,3 +11,4 @@
  8) Write a python program for Multivariate Regression Modeling.
  9) Write a python program for Linear Regression using Gradient Descent algorithm.
 10) Write a python program to implement Parzen Window Density estimation for any randomly generated signal.
+11) Write a python program for implementation of k-nearest neighbor algorithm.
